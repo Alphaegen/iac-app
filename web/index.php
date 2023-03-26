@@ -4,7 +4,7 @@ error_reporting(E_ALL);
 
 $ip_server = $_SERVER['SERVER_ADDR'];
 
-$servername = "mysql_live";
+$servername = "mysql";
 $username = "your_database_user";
 $password = "your_database_password";
 $database = "your_database_name";
